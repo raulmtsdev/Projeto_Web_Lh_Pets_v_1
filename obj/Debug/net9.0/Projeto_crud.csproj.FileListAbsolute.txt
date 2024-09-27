@@ -1,0 +1,6 @@
+C:\Users\raulm\Desktop\Projeto_crud\obj\Debug\net9.0\Projeto_crud.csproj.AssemblyReference.cache
+C:\Users\raulm\Desktop\Projeto_crud\obj\Debug\net9.0\Projeto_crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulm\Desktop\Projeto_crud\obj\Debug\net9.0\Projeto_crud.AssemblyInfoInputs.cache
+C:\Users\raulm\Desktop\Projeto_crud\obj\Debug\net9.0\Projeto_crud.AssemblyInfo.cs
+C:\Users\raulm\Desktop\Projeto_crud\obj\Debug\net9.0\Projeto_crud.csproj.CoreCompileInputs.cache
+C:\Users\raulm\Desktop\Projeto_crud\obj\Debug\net9.0\Projeto_crud.MvcApplicationPartsAssemblyInfo.cache
